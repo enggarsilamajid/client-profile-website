@@ -325,6 +325,33 @@ footer {
 }
 /* FOOTER END */
 
+.profile-link ul {
+    list-style: none;
+    padding: 0;
+}
+
+.profile-link li {
+    margin-bottom: 14px;      /* jarak antar baris */
+}
+
+.profile-link a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+}
+
+.profile-link i {
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.profile-link label {
+    font-size: 13px;          /* ukuran font diperkecil */
+    cursor: pointer;          /* pointer pada caption */
+}
+
+
 /* DROPDOWN */
 #nav-mobile button {
     border: 2px solid #64DFDF;
@@ -670,3 +697,4 @@ footer {
         height: 950px;
     }
 }
+
