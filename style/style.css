@@ -331,7 +331,7 @@ footer {
 }
 
 .profile-link li {
-    margin-bottom: 14px;      /* jarak antar baris */
+    margin-bottom: 1rem;      /* jarak antar baris */
 }
 
 .profile-link a {
@@ -347,7 +347,7 @@ footer {
 }
 
 .profile-link label {
-    font-size: 13px;          /* ukuran font diperkecil */
+    font-size: 15px;          /* ukuran font diperkecil */
     cursor: pointer;          /* pointer pada caption */
 }
 
@@ -697,4 +697,5 @@ footer {
         height: 950px;
     }
 }
+
 
